@@ -42,11 +42,4 @@ Este é o início do projeto — futuras atualizações previstas (resumido):
 - Testes básicos (JUnit) e organização do projeto.
 - Possível interface mais amigável no futuro (CLI aprimorada ou UI).
 
----
-
-## Boas práticas sugeridas
-- Padronizar nomes: classes em PascalCase e métodos/variáveis em camelCase.
-- Usar Git com commits pequenos e branches por feature.
-- Documentar métodos importantes com comentários / Javadoc.
-
----
+----------
